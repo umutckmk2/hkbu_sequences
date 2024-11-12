@@ -321,3 +321,10 @@ CREATE SEQUENCE IF NOT EXISTS public.users_id_seq
 
 ALTER SEQUENCE public.users_id_seq
     OWNER TO "kiffin.tse";
+
+
+
+
+appliance categories
+
+cities
