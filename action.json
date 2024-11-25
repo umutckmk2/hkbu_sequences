@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "nameEn": "Dry laundries with sunlight and natural breezes",
+    "nameZhTW": "利用日光與自然風乾衣"
+  },
+  {
+    "id": 1,
+    "nameEn": "Do laundry with a full load",
+    "nameZhTW": "儲滿一機衣物才開動洗衣機"
+  },
+  {
+    "id": 2,
+    "nameEn": "Leave room doors and windows open for better ventilation",
+    "nameZhTW": "打開房門窗，增加空氣流動"
+  },
+  {
+    "id": 3,
+    "nameEn": "Use other methods to substitute using air-conditioning/heater",
+    "nameZhTW": "以其他方法代替開冷氣/暖氣"
+  },
+  {
+    "id": 4,
+    "nameEn": "Use the fan with air-conditioning",
+    "nameZhTW": "開冷氣時配合使用風扇"
+  },
+  {
+    "id": 5,
+    "nameEn": "Finish showering in 10 minutes",
+    "nameZhTW": "淋浴不超過10分鐘"
+  },
+  {
+    "id": 6,
+    "nameEn": "Switch off or unplug idle electronic appliances",
+    "nameZhTW": "將無用的電器電源關掉或將其插頭拔除"
+  },
+  {
+    "id": 7,
+    "nameEn": "Use the stairs instead of escalators or lifts",
+    "nameZhTW": "使用樓梯代替電梯或扶手電梯"
+  },
+  {
+    "id": 8,
+    "nameEn": "Go for a walk/do outdoor activities",
+    "nameZhTW": "到戶外活動一下/散散步"
+  }
+]
